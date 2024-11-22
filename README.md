@@ -9,7 +9,7 @@ r: Risk-free interest rate <br/>
 T: Time to expiration (in years) <br/>
 σ: Annualized stock volatility <br/>
 
-![image](https://github.com/user-attachments/assets/fa9e41c2-3ea1-40e8-a175-28635158150d) <br / > 
+![image](https://github.com/user-attachments/assets/fa9e41c2-3ea1-40e8-a175-28635158150d) <br/> 
 ![image](https://github.com/user-attachments/assets/01454e6b-1b3e-4ff7-a12c-e1d309710171)
 
 
